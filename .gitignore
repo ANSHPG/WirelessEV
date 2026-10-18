@@ -1,0 +1,23 @@
+# MATLAB / Simulink temporary and auto-save files
+*.asv
+*.slxc
+*.autosave
+slprj/
+*.mat.bak
+sfprj/
+*.slx.r*
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+*.stackdump
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+scratch/
